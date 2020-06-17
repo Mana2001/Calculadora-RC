@@ -1,0 +1,32 @@
+button{
+      height: 50px;
+      width: 50px;
+      margin: 10px 4px;
+      box-shadow: inset /*para adentro */ 1px 1px 50px  #000000;
+}
+#broma{
+  background-color: #A76214;
+}
+#limpiar{
+      box-shadow: inset /*para adentro */ 1px 1px 50px  #CC6600;
+      border: none;
+      width: 44%;
+}
+#igual{
+      box-shadow: inset /*para adentro */ 1px 1px 50px #006633;
+      border: none;
+      width: 44%;
+}
+#calculadora_bg {
+      background-color: #2B2B2C;
+      border-radius: 10px;
+      padding: 31px;
+}
+#pantallita {
+      height: 40px;
+      border-radius: 10px;
+      padding: 10px;
+      margin: 10px 2px;
+      font-size: 16px;
+      font-weight: bold;
+}
